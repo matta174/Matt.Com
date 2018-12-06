@@ -1,9 +1,9 @@
 # Hello World!
-![alt text](source\images\doorway.jpg "Here's me standing in a doorway.")
+![alt text](https://github.com/matta174/Matthew_Compton/source/images/doorway.jpg "Here's me standing in a doorway.")
 title: Welcome to Matthew Compton's homepage!
 description: This page serves as my professional portfolio as well as updates on what's going on in my life.
 
-
+     
 
 Thanks for visiting my website that's currently in construction.
 
